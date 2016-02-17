@@ -20,8 +20,7 @@
 %the class file commercially.
 %
 %This class file is provided on an `as is'  basis, without warranties of any
-%kind, either expressed or implied, including but not limited to warranties of
-%title, or  implied warranties of merchantablility or fitness for  a
+%kind, either expressed or implied, including but not limited to warranties of%title, or  implied warranties of merchantablility or fitness for  a
 %particular purpose. There will be no duty on the author[s] of the software
 %or John Wiley & Sons Ltd to correct any errors or defects in the software.
 %Any statutory rights you may have remain unaffected by your acceptance of

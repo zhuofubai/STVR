@@ -1,14 +1,17 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=latex 2015.9.23)  25 SEP 2015 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 FEB 2016 00:55
 entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
 **stvrdoc-zfb.tex
-(stvrdoc-zfb.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-(stvrauth.cls
+(./stvrdoc-zfb.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./stvrauth.cls
 Document Class: stvrauth 2010/05/13 v2.00\ stvrauth.cls
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,78 +26,86 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: dvips.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvips.def"
-File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count87
+\c@r@tfl@t=\count88
 \rotFPtop=\skip43
 \rotFPbot=\skip44
 \rot@float@box=\box26
 \rot@mess@toks=\toks15
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count88
-\calc@Bcount=\count89
+\calc@Acount=\count89
+\calc@Bcount=\count90
 \calc@Adimen=\dimen105
 \calc@Bdimen=\dimen106
 \calc@Askip=\skip45
 \calc@Bskip=\skip46
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count90
+\calc@Ccount=\count91
 \calc@Cskip=\skip47
-) (textcase.sty
+) (./textcase.sty
 Package: textcase 1998/11/12 v0.06 Text only upper/lower case changing (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen107
 \lightrulewidth=\dimen108
@@ -106,26 +117,23 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen114
 \cmidrulekern=\dimen115
 \defaultaddspace=\dimen116
-\@cmidla=\count91
-\@cmidlb=\count92
+\@cmidla=\count92
+\@cmidlb=\count93
 \@aboverulesep=\dimen117
 \@belowrulesep=\dimen118
-\@thisruleclass=\count93
-\@lastruleclass=\count94
+\@thisruleclass=\count94
+\@lastruleclass=\count95
 \@thisrulewidth=\dimen119
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 142.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
-File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup5
@@ -133,37 +141,37 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen120
 )
 \pmbraise@=\dimen121
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count95
+\inf@bad=\count96
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count96
-\leftroot@=\count97
+\uproot@=\count97
+\leftroot@=\count98
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count98
-\DOTSCASE@=\count99
+\classnum@=\count99
+\DOTSCASE@=\count100
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -172,15 +180,15 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen122
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count100
-\c@MaxMatrixCols=\count101
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
 \dotsspace@=\muskip10
-\c@parentequation=\count102
-\dspbrk@lvl=\count103
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
 \tag@help=\toks18
-\row@=\count104
-\column@=\count105
-\maxfields@=\count106
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
 \andhelp@=\toks19
 \eqnshift@=\dimen123
 \alignsep@=\dimen124
@@ -195,7 +203,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks22
 \thm@bodyfont=\toks23
@@ -207,19 +215,19 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip53
 \dth@everypar=\toks27
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\tracefnt.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/tracefnt.sty
 Package: tracefnt 2015/02/21 v3.0k Standard LaTeX package (font tracing)
-\tracingfonts=\count107
+\tracingfonts=\count108
 LaTeX Info: Redefining \selectfont on input line 106.
 )
 \absbox=\box29
 \@bls=\dimen129
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2015/09/17 v1.7-111 caption3 kernel (AR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen130
 \captionmargin@=\dimen131
@@ -229,34 +237,35 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \caption@parindent=\dimen135
 \caption@hangindent=\dimen136
 )
-\c@ContinuedFloat=\count108
+\c@ContinuedFloat=\count109
 Package caption Info: rotating package is loaded.
 )
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 380.
-) (moreverb.sty
+(Font)              size <10> substituted on input line 379.
+)
+(./moreverb.sty
 Package: moreverb 1994/12/13 v2.0 LaTeX2e package for `more' verbatim enhanceme
 nts
 
 Package: `moreverb' v2.0 <1994/12/13> (RF, after AJCD and RmS)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks28
 \verbatim@line=\toks29
 \verbatim@in@stream=\read1
 )
 \verbatim@out=\write3
-\tab@position=\count109
-\tab@size=\count110
-\verbatimtabsize=\count111
-\listing@line=\count112
-\listing@step=\count113
+\tab@position=\count110
+\tab@size=\count111
+\verbatimtabsize=\count112
+\listing@line=\count113
+\listing@step=\count114
 \verbtab@in=\read2
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen137
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
@@ -265,58 +274,58 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count114
+\c@float@type=\count115
 \float@exts=\toks30
 \float@box=\box30
 \@float@everytoks=\toks31
 \@floatcapt=\box31
 )
 \@float@every@algorithm=\toks32
-\c@algorithm=\count115
-) (algpseudocode.sty
+\c@algorithm=\count116
+)
+(./algpseudocode.sty
 Package: algpseudocode 
-
-(algorithmicx.sty
+ (./algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count116
-\c@ALG@rem=\count117
-\c@ALG@nested=\count118
+\c@ALG@line=\count117
+\c@ALG@rem=\count118
+\c@ALG@nested=\count119
 \ALG@tlm=\skip54
 \ALG@thistlm=\skip55
-\c@ALG@Lnr=\count119
-\c@ALG@blocknr=\count120
-\c@ALG@storecount=\count121
-\c@ALG@tmpcounter=\count122
+\c@ALG@Lnr=\count120
+\c@ALG@blocknr=\count121
+\c@ALG@storecount=\count122
+\c@ALG@tmpcounter=\count123
 \ALG@tmplength=\skip56
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -329,7 +338,7 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
@@ -338,7 +347,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -346,25 +355,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen138
-\Hy@linkcounter=\count123
-\Hy@pagecounter=\count124
+\Hy@linkcounter=\count124
+\Hy@pagecounter=\count125
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count125
+\Hy@SavedSpaceFactor=\count126
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
@@ -378,15 +387,15 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count126
+\c@Hy@tempcnt=\count127
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen139
-\Fld@menulength=\count127
+\Fld@menulength=\count128
 \Field@Width=\dimen140
 \Fld@charsize=\dimen141
 Package hyperref Info: Hyper figures OFF on input line 6295.
@@ -398,34 +407,28 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count128
-\c@Item=\count129
-\c@Hfootnote=\count130
+\Hy@abspage=\count129
+\c@Item=\count130
+\c@Hfootnote=\count131
 )
 
-Package hyperref Message: Driver: hdvips.
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hdvips.def"
-File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pdfmark.def"
-File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
-\pdf@docset=\toks33
-\pdf@box=\box32
-\pdf@toks=\toks34
-\pdf@defaulttoks=\toks35
-\HyField@AnnotCount=\count131
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count132
 \c@bookmark@seq@number=\count133
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip57
-))
-(stvrdoc-zfb.aux)
+)
+(./stvrdoc-zfb.aux)
+\openout1 = `stvrdoc-zfb.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
@@ -441,9 +444,38 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen142
+\scratchbox=\box32
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen143
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -451,23 +483,25 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 20.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count134
+\c@section@level=\count140
 )
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
 
-(stvrdoc-zfb.out) (stvrdoc-zfb.out)
+(./stvrdoc-zfb.out) (./stvrdoc-zfb.out)
 \@outlinefile=\write4
+\openout4 = `stvrdoc-zfb.out'.
+
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9.5> not available
@@ -493,7 +527,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.15> not available
 (Font)              size <5> substituted on input line 38.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 38.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <10.3> not available
@@ -504,12 +538,12 @@ LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.15> not available
 (Font)              size <5> substituted on input line 38.
 LaTeX Font Info:    Try loading font information for U+msa on input line 38.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.3> not available
@@ -652,88 +686,143 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.25> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 43.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.25> not available
 (Font)              size <5> substituted on input line 43.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8.5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 54.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 54.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8.5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 54.
- [1
-
-]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8.5> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 58.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 58.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8.5> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 58.
+ [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
+Non-PDF special ignored!]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.3> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.3> not available
 (Font)              size <10> substituted on input line 68.
+ [2]
+Package epstopdf Info: Source file: <MotivatingExample.eps>
+(epstopdf)                    date: 2015-09-24 16:37:54
+(epstopdf)                    size: 874585 bytes
+(epstopdf)             Output file: <MotivatingExample-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:07:51
+(epstopdf)                    size: 327103 bytes
+(epstopdf)             Command: <repstopdf --outfile=MotivatingExample-eps-conv
+erted-to.pdf MotivatingExample.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
 
-[4]
-File: MotivatingExample.eps Graphic file (type eps)
- <MotivatingExample.eps> [5] [6]
-File: CausalDAG1.eps Graphic file (type eps)
- <CausalDAG1.eps>
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<MotivatingExample-eps-converted-to.pdf, id=173, 1250.6725pt x 684.5575pt>
+File: MotivatingExample-eps-converted-to.pdf Graphic file (type pdf)
 
- [7]
-File: CausalDAG2.eps Graphic file (type eps)
+<use MotivatingExample-eps-converted-to.pdf>
+Package pdftex.def Info: MotivatingExample-eps-converted-to.pdf used on input l
+ine 95.
+(pdftex.def)             Requested size: 326.40125pt x 178.64926pt.
+ [3 <./MotivatingExample-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <CausalDAG1.eps>
+(epstopdf)                    date: 2015-09-23 18:22:42
+(epstopdf)                    size: 839680 bytes
+(epstopdf)             Output file: <CausalDAG1-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:07:53
+(epstopdf)                    size: 80406 bytes
+(epstopdf)             Command: <repstopdf --outfile=CausalDAG1-eps-converted-t
+o.pdf CausalDAG1.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+ <CausalDAG1-eps-converted-to.pdf, id=190, 289.08pt x 166.6225pt>
+File: CausalDAG1-eps-converted-to.pdf Graphic file (type pdf)
 
-<CausalDAG2.eps> [8] [9]
+<use CausalDAG1-eps-converted-to.pdf>
+Package pdftex.def Info: CausalDAG1-eps-converted-to.pdf used on input line 120
+.
+(pdftex.def)             Requested size: 204.0pt x 117.58328pt.
+ [4 <./CausalDAG1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <CausalDAG2.eps>
+(epstopdf)                    date: 2015-09-23 18:23:04
+(epstopdf)                    size: 854772 bytes
+(epstopdf)             Output file: <CausalDAG2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:07:54
+(epstopdf)                    size: 84278 bytes
+(epstopdf)             Command: <repstopdf --outfile=CausalDAG2-eps-converted-t
+o.pdf CausalDAG2.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+
+<CausalDAG2-eps-converted-to.pdf, id=209, 289.08pt x 166.6225pt>
+File: CausalDAG2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CausalDAG2-eps-converted-to.pdf>
+Package pdftex.def Info: CausalDAG2-eps-converted-to.pdf used on input line 137
+.
+(pdftex.def)             Requested size: 204.0pt x 117.58328pt.
+ [5 <./CausalDAG2-eps-converted-to.pdf>]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
- [10] [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
-[13] [14]
+[6]
+Overfull \hbox (21.65877pt too wide) in paragraph at lines 174--189
+ [][] 
+ []
+
+[7] [8] [9]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.3> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 232.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 257.
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--236
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--236
+Underfull \hbox (badness 10000) in paragraph at lines 254--261
 
  []
 
-[15]
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--261
+
+ []
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--251
+Underfull \hbox (badness 10000) in paragraph at lines 270--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--251
+Underfull \hbox (badness 10000) in paragraph at lines 270--276
 
  []
 
-[16]
-File: DRF_curves.eps Graphic file (type eps)
- <DRF_curves.eps>
+[10]
+Package epstopdf Info: Source file: <DRF_curves.eps>
+(epstopdf)                    date: 2015-09-24 04:24:16
+(epstopdf)                    size: 2795173 bytes
+(epstopdf)             Output file: <DRF_curves-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:07:57
+(epstopdf)                    size: 208538 bytes
+(epstopdf)             Command: <repstopdf --outfile=DRF_curves-eps-converted-t
+o.pdf DRF_curves.eps>
+(epstopdf)             \includegraphics on input line 279.
+Package epstopdf Info: Output file is already uptodate.
+ <DRF_curves-eps-converted-to.pdf, id=296, 433.62pt x 216.81pt>
+File: DRF_curves-eps-converted-to.pdf Graphic file (type pdf)
+
+<use DRF_curves-eps-converted-to.pdf>
+Package pdftex.def Info: DRF_curves-eps-converted-to.pdf used on input line 279
+.
+(pdftex.def)             Requested size: 285.59875pt x 142.80722pt.
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no Ã in font cmr10!
@@ -743,133 +832,257 @@ Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.3> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 277.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 302.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no § in font cmr10!
-
-
-LaTeX Warning: Float too large for page by 155.25548pt on input line 312.
-
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
-[17] [18]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
+ [11 <./DRF_curves-eps-converted-to.pdf>]
+[12]
+Overfull \hbox (11.35878pt too wide) in paragraph at lines 372--383
+ [][] 
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-[23] [24]
+[13]
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 393.
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9.5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 393.
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <9.5> not available
+(Font)              size <9> substituted on input line 393.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6.64996> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 393.
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.64996> not available
+(Font)              size <7> substituted on input line 393.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.75> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 393.
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.75> not available
+(Font)              size <5> substituted on input line 393.
+ [14] [15] [16]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 410.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 524.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 410.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 524.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 410.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 524.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 412.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 526.
+ [17]
+Package epstopdf Info: Source file: <QRM_VS_Base.eps>
+(epstopdf)                    date: 2015-09-23 02:28:12
+(epstopdf)                    size: 11271545 bytes
+(epstopdf)             Output file: <QRM_VS_Base-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:07:59
+(epstopdf)                    size: 508472 bytes
+(epstopdf)             Command: <repstopdf --outfile=QRM_VS_Base-eps-converted-
+to.pdf QRM_VS_Base.eps>
+(epstopdf)             \includegraphics on input line 562.
+Package epstopdf Info: Output file is already uptodate.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<QRM_VS_Base-eps-converted-to.pdf, id=397, 433.62pt x 216.81pt>
+File: QRM_VS_Base-eps-converted-to.pdf Graphic file (type pdf)
 
- [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-File: QRM_VS_Base.eps Graphic file (type eps)
-
-<QRM_VS_Base.eps>
+<use QRM_VS_Base-eps-converted-to.pdf>
+Package pdftex.def Info: QRM_VS_Base-eps-converted-to.pdf used on input line 56
+2.
+(pdftex.def)             Requested size: 645.0pt x 322.54112pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
+Package epstopdf Info: Source file: <QRM_allFail.eps>
+(epstopdf)                    date: 2015-09-23 02:27:46
+(epstopdf)                    size: 281337 bytes
+(epstopdf)             Output file: <QRM_allFail-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:24:02
+(epstopdf)                    size: 17803 bytes
+(epstopdf)             Command: <repstopdf --outfile=QRM_allFail-eps-converted-
+to.pdf QRM_allFail.eps>
+(epstopdf)             \includegraphics on input line 602.
+Package epstopdf Info: Output file is already uptodate.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<QRM_allFail-eps-converted-to.pdf, id=402, 1170.3725pt x 799.98875pt>
+File: QRM_allFail-eps-converted-to.pdf Graphic file (type pdf)
 
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use QRM_allFail-eps-converted-to.pdf>
+Package pdftex.def Info: QRM_allFail-eps-converted-to.pdf used on input line 60
+2.
+(pdftex.def)             Requested size: 244.80249pt x 167.33122pt.
+ [18] [19 <./QRM_VS_Base-eps-converted-to.pdf>] [20 <./QRM_allFail-eps-converte
+d-to.pdf>]
+Package epstopdf Info: Source file: <QRM_VS_Base_MultipleFault.eps>
+(epstopdf)                    date: 2015-09-23 02:28:44
+(epstopdf)                    size: 6145186 bytes
+(epstopdf)             Output file: <QRM_VS_Base_MultipleFault-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-01-15 02:24:04
+(epstopdf)                    size: 345573 bytes
+(epstopdf)             Command: <repstopdf --outfile=QRM_VS_Base_MultipleFault-
+eps-converted-to.pdf QRM_VS_Base_MultipleFault.eps>
+(epstopdf)             \includegraphics on input line 632.
+Package epstopdf Info: Output file is already uptodate.
 
- [28]
-File: QRM_allFail.eps Graphic file (type eps)
+<QRM_VS_Base_MultipleFault-eps-converted-to.pdf, id=434, 433.62pt x 216.81pt>
+File: QRM_VS_Base_MultipleFault-eps-converted-to.pdf Graphic file (type pdf)
 
-<QRM_allFail.eps> [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use QRM_VS_Base_MultipleFault-eps-converted-to.pdf>
+Package pdftex.def Info: QRM_VS_Base_MultipleFault-eps-converted-to.pdf used on
+ input line 632.
+(pdftex.def)             Requested size: 408.0pt x 204.00984pt.
+ [21 <./QRM_VS_Base_MultipleFault-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <CBPS_VS_GPS.eps>
+(epstopdf)                    date: 2015-09-23 02:26:40
+(epstopdf)                    size: 283277 bytes
+(epstopdf)             Output file: <CBPS_VS_GPS-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-15 02:08:03
+(epstopdf)                    size: 18562 bytes
+(epstopdf)             Command: <repstopdf --outfile=CBPS_VS_GPS-eps-converted-
+to.pdf CBPS_VS_GPS.eps>
+(epstopdf)             \includegraphics on input line 691.
+Package epstopdf Info: Output file is already uptodate.
 
- [30]
-File: QRM_VS_Base_MultipleFault.eps Graphic file (type eps)
+<CBPS_VS_GPS-eps-converted-to.pdf, id=448, 1170.3725pt x 799.98875pt>
+File: CBPS_VS_GPS-eps-converted-to.pdf Graphic file (type pdf)
 
-<QRM_VS_Base_MultipleFault.eps> [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use CBPS_VS_GPS-eps-converted-to.pdf>
+Package pdftex.def Info: CBPS_VS_GPS-eps-converted-to.pdf used on input line 69
+1.
+(pdftex.def)             Requested size: 408.0pt x 278.87723pt.
+Package epstopdf Info: Source file: <CBPS_VS_GPS_MultipleFault.eps>
+(epstopdf)                    date: 2015-09-23 02:27:06
+(epstopdf)                    size: 245724 bytes
+(epstopdf)             Output file: <CBPS_VS_GPS_MultipleFault-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-01-15 02:08:05
+(epstopdf)                    size: 17342 bytes
+(epstopdf)             Command: <repstopdf --outfile=CBPS_VS_GPS_MultipleFault-
+eps-converted-to.pdf CBPS_VS_GPS_MultipleFault.eps>
+(epstopdf)             \includegraphics on input line 698.
+Package epstopdf Info: Output file is already uptodate.
 
- [32]
-[33]
-File: CBPS_VS_GPS.eps Graphic file (type eps)
- <CBPS_VS_GPS.eps>
-File: CBPS_VS_GPS_MultipleFault.eps Graphic file (type eps)
- <CBPS_VS_GPS_MultipleFault.eps> [34] [35]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 674--674
+<CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf, id=449, 1170.3725pt x 799.9887
+5pt>
+File: CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf Graphic file (type pdf)
+ <use CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf>
+Package pdftex.def Info: CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf used on
+ input line 698.
+(pdftex.def)             Requested size: 408.0pt x 278.87723pt.
+ [22] [23 <./CBPS_VS_GPS-eps-converted-to.pdf> <./CBPS_VS_GPS_MultipleFault-eps
+-converted-to.pdf>]
+[24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 821--821
 
  []
 
 
-Overfull \hbox (5.43877pt too wide) in paragraph at lines 676--677
-[][]\OT1/ptm/m/n/8.5 Vuik K. \OT1/ptm/m/it/8.5 Some dis-as-ters caused by numer
--i-cal errors\OT1/ptm/m/n/8.5 . Web-site at: http://ta.twi.tudelft.nl/users/vui
-k/wi211/disasters.html. 
+Overfull \hbox (5.43877pt too wide) in paragraph at lines 823--824
+[]\OT1/ptm/m/n/8.5 Vuik K. \OT1/ptm/m/it/8.5 Some dis-as-ters caused by numer-i
+-cal errors\OT1/ptm/m/n/8.5 . Web-site at: http://ta.twi.tudelft.nl/users/vuik/
+wi211/disasters.html. 
  []
 
-[38]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [39]
+[26]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ò in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ô in font ptmri7t!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 760.
-
-[40]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 760.
- (stvrdoc-zfb.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 760.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 760.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 907.
+ [27]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 907.
+ (./stvrdoc-zfb.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 907.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 907.
 Package rerunfilecheck Info: File `stvrdoc-zfb.out' has not changed.
-(rerunfilecheck)             Checksum: A9089AAF9FA9E51D86897F664424D7EC;2005.
+(rerunfilecheck)             Checksum: FDF9F558B502C1A76F6C2E2F206A0941;2048.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.75pt have occurred.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 760.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 907.
  ) 
 Here is how much of TeX's memory you used:
- 8204 strings out of 493674
- 120933 string characters out of 3143983
- 217298 words of memory out of 3000000
- 11388 multiletter control sequences out of 15000+200000
- 29323 words of font info for 103 fonts, out of 3000000 for 9000
- 1026 hyphenation exceptions out of 8191
- 43i,14n,40p,1739b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 8786 strings out of 493089
+ 130677 string characters out of 6134842
+ 231253 words of memory out of 5000000
+ 11926 multiletter control sequences out of 15000+600000
+ 48440 words of font info for 132 fonts, out of 8000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 43i,14n,40p,1984b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
+mes/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8
+a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on stvrdoc-zfb.pdf (27 pages, 1882215 bytes).
+PDF statistics:
+ 610 PDF objects out of 1000 (max. 8388607)
+ 539 compressed objects within 6 object streams
+ 144 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on stvrdoc-zfb.dvi (40 pages, 221340 bytes).
