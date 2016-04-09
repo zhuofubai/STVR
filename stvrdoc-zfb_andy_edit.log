@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 APR 2016 01:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 APR 2016 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**stvrdoc-zfb.tex
-(./stvrdoc-zfb.tex
+**stvrdoc-zfb_andy_edit.tex
+(./stvrdoc-zfb_andy_edit.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./stvrauth.cls
@@ -456,26 +456,29 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(./stvrdoc-zfb.aux)
-\openout1 = `stvrdoc-zfb.aux'.
+(./stvrdoc-zfb_andy_edit.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 24.
+LaTeX Warning: Label `Abreu2009' multiply defined.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+)
+\openout1 = `stvrdoc-zfb_andy_edit.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 22.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -511,7 +514,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 22.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -521,302 +524,264 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count140
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
-(./stvrdoc-zfb.out) (./stvrdoc-zfb.out)
+(./stvrdoc-zfb_andy_edit.out) (./stvrdoc-zfb_andy_edit.out)
 \@outlinefile=\write4
-\openout4 = `stvrdoc-zfb.out'.
+\openout4 = `stvrdoc-zfb_andy_edit.out'.
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 42.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 40.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9.5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 42.
-LaTeX Font Info:    Calculating math sizes for size <10.3> on input line 42.
+(Font)              size <9> substituted on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <10.3> on input line 40.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 40.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 42.
+(Font)              size <5> substituted on input line 40.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 40.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
-LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+(Font)              size <5> substituted on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 40.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 40.
 LaTeX Font Warning: Font shape `U/lasy/b/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 42.
+(Font)              size <10> substituted on input line 40.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.20996> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 42.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 40.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.20996> not available
-(Font)              size <7> substituted on input line 42.
+(Font)              size <7> substituted on input line 40.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.15> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 42.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 40.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.15> not available
-(Font)              size <5> substituted on input line 42.
-LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 47.
+(Font)              size <5> substituted on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <11.5> on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/b/n' in size <11.5> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 45.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.04996> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 47.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.75> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 47.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.75> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8.04996> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.04996> not available
-(Font)              size <8> substituted on input line 47.
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 47.
+(Font)              size <8> substituted on input line 45.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 47.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 47.
+(Font)              size <8> substituted on input line 45.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.94997> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 47.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.94997> not available
-(Font)              size <6> substituted on input line 47.
+(Font)              size <6> substituted on input line 45.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.25> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 47.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.25> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 45.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8.5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 62.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 62.
+(Font)              size <8> substituted on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 60.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8.5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 62.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 60.
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 Non-PDF special ignored!]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.3> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.3> not available
-(Font)              size <10> substituted on input line 72.
+(Font)              size <10> substituted on input line 70.
  [2]
-Package epstopdf Info: Source file: <MotivatingExample.eps>
-(epstopdf)                    date: 2015-09-24 13:37:54
-(epstopdf)                    size: 874585 bytes
-(epstopdf)             Output file: <MotivatingExample-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:07:51
-(epstopdf)                    size: 327103 bytes
-(epstopdf)             Command: <repstopdf --outfile=MotivatingExample-eps-conv
-erted-to.pdf MotivatingExample.eps>
-(epstopdf)             \includegraphics on input line 99.
-Package epstopdf Info: Output file is already uptodate.
+<MotivatingExample.pdf, id=183, 1250.6725pt x 684.5575pt>
+File: MotivatingExample.pdf Graphic file (type pdf)
 
-<MotivatingExample-eps-converted-to.pdf, id=179, 1250.6725pt x 684.5575pt>
-File: MotivatingExample-eps-converted-to.pdf Graphic file (type pdf)
-
-<use MotivatingExample-eps-converted-to.pdf>
-Package pdftex.def Info: MotivatingExample-eps-converted-to.pdf used on input l
-ine 99.
+<use MotivatingExample.pdf>
+Package pdftex.def Info: MotivatingExample.pdf used on input line 94.
 (pdftex.def)             Requested size: 326.40125pt x 178.64926pt.
- [3 <./MotivatingExample-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <CausalDAG1.eps>
-(epstopdf)                    date: 2015-09-23 15:22:42
-(epstopdf)                    size: 839680 bytes
-(epstopdf)             Output file: <CausalDAG1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:07:53
-(epstopdf)                    size: 80406 bytes
-(epstopdf)             Command: <repstopdf --outfile=CausalDAG1-eps-converted-t
-o.pdf CausalDAG1.eps>
-(epstopdf)             \includegraphics on input line 124.
-Package epstopdf Info: Output file is already uptodate.
- <CausalDAG1-eps-converted-to.pdf, id=197, 289.08pt x 166.6225pt>
-File: CausalDAG1-eps-converted-to.pdf Graphic file (type pdf)
-
-<use CausalDAG1-eps-converted-to.pdf>
-Package pdftex.def Info: CausalDAG1-eps-converted-to.pdf used on input line 124
-.
+ [3 <./MotivatingExample.pdf>]
+<CausalDAG1.pdf, id=201, 289.08pt x 166.6225pt>
+File: CausalDAG1.pdf Graphic file (type pdf)
+ <use CausalDAG1.pdf>
+Package pdftex.def Info: CausalDAG1.pdf used on input line 119.
 (pdftex.def)             Requested size: 204.0pt x 117.58328pt.
- [4 <./CausalDAG1-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <CausalDAG2.eps>
-(epstopdf)                    date: 2015-09-23 15:23:04
-(epstopdf)                    size: 854772 bytes
-(epstopdf)             Output file: <CausalDAG2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:07:54
-(epstopdf)                    size: 84278 bytes
-(epstopdf)             Command: <repstopdf --outfile=CausalDAG2-eps-converted-t
-o.pdf CausalDAG2.eps>
-(epstopdf)             \includegraphics on input line 141.
-Package epstopdf Info: Output file is already uptodate.
+ [4 <./CausalDAG1.pdf>] <CausalDAG2.pdf, id=219, 289.08pt x 166.6225pt>
+File: CausalDAG2.pdf Graphic file (type pdf)
 
-<CausalDAG2-eps-converted-to.pdf, id=215, 289.08pt x 166.6225pt>
-File: CausalDAG2-eps-converted-to.pdf Graphic file (type pdf)
-
-<use CausalDAG2-eps-converted-to.pdf>
-Package pdftex.def Info: CausalDAG2-eps-converted-to.pdf used on input line 141
-.
+<use CausalDAG2.pdf>
+Package pdftex.def Info: CausalDAG2.pdf used on input line 134.
 (pdftex.def)             Requested size: 204.0pt x 117.58328pt.
- [5 <./CausalDAG2-eps-converted-to.pdf>]
+ [5 <./CausalDAG2.pdf>]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
-
-[6]
-Overfull \hbox (21.65877pt too wide) in paragraph at lines 182--197
+ [6]
+Overfull \hbox (21.65877pt too wide) in paragraph at lines 175--190
  [][] 
  []
 
 [7] [8] [9]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.3> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 266.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 258.
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--270
+Underfull \hbox (badness 10000) in paragraph at lines 255--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--270
+Underfull \hbox (badness 10000) in paragraph at lines 255--262
 
  []
 
@@ -826,32 +791,19 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--285
+Underfull \hbox (badness 10000) in paragraph at lines 271--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--285
+Underfull \hbox (badness 10000) in paragraph at lines 271--277
 
  []
 
-[10]
-Package epstopdf Info: Source file: <DRF_curves.eps>
-(epstopdf)                    date: 2015-09-24 01:24:16
-(epstopdf)                    size: 2795173 bytes
-(epstopdf)             Output file: <DRF_curves-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:07:57
-(epstopdf)                    size: 208538 bytes
-(epstopdf)             Command: <repstopdf --outfile=DRF_curves-eps-converted-t
-o.pdf DRF_curves.eps>
-(epstopdf)             \includegraphics on input line 288.
-Package epstopdf Info: Output file is already uptodate.
- <DRF_curves-eps-converted-to.pdf, id=302, 433.62pt x 216.81pt>
-File: DRF_curves-eps-converted-to.pdf Graphic file (type pdf)
-
-<use DRF_curves-eps-converted-to.pdf>
-Package pdftex.def Info: DRF_curves-eps-converted-to.pdf used on input line 288
-.
+[10] <DRF_curves.pdf, id=306, 433.62pt x 216.81pt>
+File: DRF_curves.pdf Graphic file (type pdf)
+ <use DRF_curves.pdf>
+Package pdftex.def Info: DRF_curves.pdf used on input line 280.
 (pdftex.def)             Requested size: 285.59875pt x 142.80722pt.
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
@@ -862,7 +814,7 @@ Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.3> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 311.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 303.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
@@ -876,196 +828,133 @@ Missing character: There is no Ç in font ptmr7t!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
- [11 <./DRF_curves-eps-converted-to.pdf>]
-[12]
-Overfull \hbox (11.35878pt too wide) in paragraph at lines 382--393
+
+[11 <./DRF_curves.pdf>] [12]
+Overfull \hbox (11.35878pt too wide) in paragraph at lines 374--385
  [][] 
  []
 
 [13]
-LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 409.
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 403.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9.5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 409.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 403.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <9.5> not available
-(Font)              size <9> substituted on input line 409.
+(Font)              size <9> substituted on input line 403.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6.64996> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 409.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 403.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.64996> not available
-(Font)              size <7> substituted on input line 409.
+(Font)              size <7> substituted on input line 403.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.75> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 409.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 403.
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.75> not available
-(Font)              size <5> substituted on input line 409.
+(Font)              size <5> substituted on input line 403.
  [14] [15] [16]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 548.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 542.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 548.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 542.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 550.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 544.
 
-Overfull \hbox (10.45888pt too wide) in paragraph at lines 548--570
+Overfull \hbox (10.45888pt too wide) in paragraph at lines 542--564
  [][] 
  []
 
-[17]
-Package epstopdf Info: Source file: <QRM_VS_Base.eps>
-(epstopdf)                    date: 2015-09-22 23:28:12
-(epstopdf)                    size: 11271545 bytes
-(epstopdf)             Output file: <QRM_VS_Base-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:07:59
-(epstopdf)                    size: 508472 bytes
-(epstopdf)             Command: <repstopdf --outfile=QRM_VS_Base-eps-converted-
-to.pdf QRM_VS_Base.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
- <QRM_VS_Base-eps-converted-to.pdf, id=404, 433.62pt x 216.81pt>
-File: QRM_VS_Base-eps-converted-to.pdf Graphic file (type pdf)
-
-<use QRM_VS_Base-eps-converted-to.pdf>
-Package pdftex.def Info: QRM_VS_Base-eps-converted-to.pdf used on input line 58
-9.
+[17] <QRM_VS_Base.pdf, id=409, 433.62pt x 216.81pt>
+File: QRM_VS_Base.pdf Graphic file (type pdf)
+ <use QRM_VS_Base.pdf>
+Package pdftex.def Info: QRM_VS_Base.pdf used on input line 584.
 (pdftex.def)             Requested size: 645.0pt x 322.54112pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
- [18] [19 <./QRM_VS_Base-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <QRM_allFail.eps>
-(epstopdf)                    date: 2015-09-22 23:27:46
-(epstopdf)                    size: 281337 bytes
-(epstopdf)             Output file: <QRM_allFail-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:24:02
-(epstopdf)                    size: 17803 bytes
-(epstopdf)             Command: <repstopdf --outfile=QRM_allFail-eps-converted-
-to.pdf QRM_allFail.eps>
-(epstopdf)             \includegraphics on input line 629.
-Package epstopdf Info: Output file is already uptodate.
- <QRM_allFail-eps-converted-to.pdf, id=422, 1170.3725pt x 799.98875pt>
-File: QRM_allFail-eps-converted-to.pdf Graphic file (type pdf)
 
-<use QRM_allFail-eps-converted-to.pdf>
-Package pdftex.def Info: QRM_allFail-eps-converted-to.pdf used on input line 62
-9.
+[18] [19 <./QRM_VS_Base.pdf>]
+<QRM_allFail.pdf, id=427, 1170.3725pt x 799.98875pt>
+File: QRM_allFail.pdf Graphic file (type pdf)
+ <use QRM_allFail.pdf>
+Package pdftex.def Info: QRM_allFail.pdf used on input line 624.
 (pdftex.def)             Requested size: 244.80249pt x 167.33122pt.
+
+[20 <./QRM_allFail.pdf>]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 643.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 638.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 643.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 638.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 645.
- [20]
-Package epstopdf Info: Source file: <QRM_VS_Base_MultipleFault.eps>
-(epstopdf)                    date: 2015-09-22 23:28:44
-(epstopdf)                    size: 6145186 bytes
-(epstopdf)             Output file: <QRM_VS_Base_MultipleFault-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2016-01-14 23:24:04
-(epstopdf)                    size: 345573 bytes
-(epstopdf)             Command: <repstopdf --outfile=QRM_VS_Base_MultipleFault-
-eps-converted-to.pdf QRM_VS_Base_MultipleFault.eps>
-(epstopdf)             \includegraphics on input line 659.
-Package epstopdf Info: Output file is already uptodate.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 640.
 
-<QRM_VS_Base_MultipleFault-eps-converted-to.pdf, id=437, 433.62pt x 216.81pt>
-File: QRM_VS_Base_MultipleFault-eps-converted-to.pdf Graphic file (type pdf)
+<QRM_VS_Base_MultipleFault.pdf, id=445, 433.62pt x 216.81pt>
+File: QRM_VS_Base_MultipleFault.pdf Graphic file (type pdf)
 
-<use QRM_VS_Base_MultipleFault-eps-converted-to.pdf>
-Package pdftex.def Info: QRM_VS_Base_MultipleFault-eps-converted-to.pdf used on
- input line 659.
+<use QRM_VS_Base_MultipleFault.pdf>
+Package pdftex.def Info: QRM_VS_Base_MultipleFault.pdf used on input line 654.
 (pdftex.def)             Requested size: 408.0pt x 204.00984pt.
- [21 <./QRM_allFail-eps-converted-to.pdf>] [22 <./QRM_VS_Base_MultipleFault-eps
--converted-to.pdf>]
-Package epstopdf Info: Source file: <CBPS_VS_GPS.eps>
-(epstopdf)                    date: 2015-09-22 23:26:40
-(epstopdf)                    size: 283277 bytes
-(epstopdf)             Output file: <CBPS_VS_GPS-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-14 23:08:03
-(epstopdf)                    size: 18562 bytes
-(epstopdf)             Command: <repstopdf --outfile=CBPS_VS_GPS-eps-converted-
-to.pdf CBPS_VS_GPS.eps>
-(epstopdf)             \includegraphics on input line 718.
-Package epstopdf Info: Output file is already uptodate.
-
-<CBPS_VS_GPS-eps-converted-to.pdf, id=462, 1170.3725pt x 799.98875pt>
-File: CBPS_VS_GPS-eps-converted-to.pdf Graphic file (type pdf)
-
-<use CBPS_VS_GPS-eps-converted-to.pdf>
-Package pdftex.def Info: CBPS_VS_GPS-eps-converted-to.pdf used on input line 71
-8.
-(pdftex.def)             Requested size: 408.0pt x 278.87723pt.
-Package epstopdf Info: Source file: <CBPS_VS_GPS_MultipleFault.eps>
-(epstopdf)                    date: 2015-09-22 23:27:06
-(epstopdf)                    size: 245724 bytes
-(epstopdf)             Output file: <CBPS_VS_GPS_MultipleFault-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2016-01-14 23:08:05
-(epstopdf)                    size: 17342 bytes
-(epstopdf)             Command: <repstopdf --outfile=CBPS_VS_GPS_MultipleFault-
-eps-converted-to.pdf CBPS_VS_GPS_MultipleFault.eps>
-(epstopdf)             \includegraphics on input line 725.
-Package epstopdf Info: Output file is already uptodate.
-
-<CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf, id=463, 1170.3725pt x 799.9887
-5pt>
-File: CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf Graphic file (type pdf)
- <use CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf>
-Package pdftex.def Info: CBPS_VS_GPS_MultipleFault-eps-converted-to.pdf used on
- input line 725.
-(pdftex.def)             Requested size: 408.0pt x 278.87723pt.
- [23 <./CBPS_VS_GPS-eps-converted-to.pdf>] [24 <./CBPS_VS_GPS_MultipleFault-eps
--converted-to.pdf>]
+ [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 894--894
+ [22 <./QRM_VS_Base_MultipleFault.pdf>]
+<CBPS_VS_GPS.pdf, id=467, 1170.3725pt x 799.98875pt>
+File: CBPS_VS_GPS.pdf Graphic file (type pdf)
+ <use CBPS_VS_GPS.pdf>
+Package pdftex.def Info: CBPS_VS_GPS.pdf used on input line 713.
+(pdftex.def)             Requested size: 408.0pt x 278.87723pt.
+
+<CBPS_VS_GPS_MultipleFault.pdf, id=468, 1170.3725pt x 799.98875pt>
+File: CBPS_VS_GPS_MultipleFault.pdf Graphic file (type pdf)
+
+<use CBPS_VS_GPS_MultipleFault.pdf>
+Package pdftex.def Info: CBPS_VS_GPS_MultipleFault.pdf used on input line 720.
+(pdftex.def)             Requested size: 408.0pt x 278.87723pt.
+ [23 <./CBPS_VS_GPS.pdf>] [24 <./CBPS_VS_GPS_MultipleFault.pdf>] [25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 885--885
 
  []
 
 
-Overfull \hbox (5.43877pt too wide) in paragraph at lines 896--897
+Overfull \hbox (5.43877pt too wide) in paragraph at lines 887--888
 []\OT1/ptm/m/n/8.5 Vuik K. \OT1/ptm/m/it/8.5 Some dis-as-ters caused by numer-i
 -cal errors\OT1/ptm/m/n/8.5 . Web-site at: http://ta.twi.tudelft.nl/users/vuik/
 wi211/disasters.html. 
@@ -1082,27 +971,39 @@ Missing character: There is no ô in font ptmri7t!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 990.
+Missing character: There is no È in font ptmr7t!
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1001.
 
-[29]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 990.
- (./stvrdoc-zfb.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 990.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 990.
-Package rerunfilecheck Info: File `stvrdoc-zfb.out' has not changed.
-(rerunfilecheck)             Checksum: ABB658A8468C262686E0712ED8CCC696;2159.
+[29pdfTeX warning (ext4): destination with the same identifier (name{cite.Abreu
+2009}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1001 \end{document}
+                     ]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1001.
+ (./stvrdoc-zfb_andy_edit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1001.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1001.
+
+Package rerunfilecheck Info: File `stvrdoc-zfb_andy_edit.out' has not changed.
+(rerunfilecheck)             Checksum: 769947D217FD63A7001E0FFD1E9B71F5;2238.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.75pt have occurred.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 990.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1001.
  ) 
 Here is how much of TeX's memory you used:
- 9386 strings out of 493089
- 137769 string characters out of 6134842
- 243461 words of memory out of 5000000
- 12504 multiletter control sequences out of 15000+600000
+ 9395 strings out of 493089
+ 137425 string characters out of 6134842
+ 244538 words of memory out of 5000000
+ 12509 multiletter control sequences out of 15000+600000
  52610 words of font info for 140 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 43i,14n,40p,1967b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,14n,40p,2322b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -1121,10 +1022,10 @@ nts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/ti
 mes/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8
 a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on stvrdoc-zfb.pdf (29 pages, 1890844 bytes).
+Output written on stvrdoc-zfb_andy_edit.pdf (29 pages, 1892678 bytes).
 PDF statistics:
- 637 PDF objects out of 1000 (max. 8388607)
- 564 compressed objects within 6 object streams
- 153 named destinations out of 1000 (max. 500000)
- 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 653 PDF objects out of 1000 (max. 8388607)
+ 580 compressed objects within 6 object streams
+ 158 named destinations out of 1000 (max. 500000)
+ 278 words of extra memory for PDF output out of 10000 (max. 10000000)
 

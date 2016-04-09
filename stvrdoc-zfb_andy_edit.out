@@ -1,0 +1,29 @@
+\BOOKMARK [1][]{section.1}{1 Introduction}{}% 1
+\BOOKMARK [1][]{section.2}{2 Motivating example}{}% 2
+\BOOKMARK [1][]{section.3}{3 BACKGROUND}{}% 3
+\BOOKMARK [2][]{subsection.3.1}{3.1 Causal Inference Methodology}{section.3}% 4
+\BOOKMARK [2][]{subsection.3.2}{3.2 Ordinary Propensity Scores}{section.3}% 5
+\BOOKMARK [2][]{subsection.3.3}{3.3 Generalized Propensity Score \(GPS\)}{section.3}% 6
+\BOOKMARK [2][]{subsection.3.4}{3.4 Covariate Balancing Propensity Score \(CBPS\)}{section.3}% 7
+\BOOKMARK [1][]{section.4}{4 TWO VERSIONS OF NUMFL}{}% 8
+\BOOKMARK [2][]{subsection.4.1}{4.1 NUMFL-GPS}{section.4}% 9
+\BOOKMARK [3][]{subsubsection.4.1.1}{4.1.1 Control of Confounding.}{subsection.4.1}% 10
+\BOOKMARK [3][]{subsubsection.4.1.2}{4.1.2 Failure-Causing Effect Estimation.}{subsection.4.1}% 11
+\BOOKMARK [2][]{subsection.4.2}{4.2 NUMFL-CBPS}{section.4}% 12
+\BOOKMARK [3][]{subsubsection.4.2.1}{4.2.1 Control of Confounding.}{subsection.4.2}% 13
+\BOOKMARK [3][]{subsubsection.4.2.2}{4.2.2 Failure-Causing Effect Estimation.}{subsection.4.2}% 14
+\BOOKMARK [2][]{subsection.4.3}{4.3 Demonstration of NUMFL}{section.4}% 15
+\BOOKMARK [1][]{section.5}{5 EMPIRICAL EVALUATION}{}% 16
+\BOOKMARK [2][]{subsection.5.1}{5.1 Experimental Platform and Data Collection}{section.5}% 17
+\BOOKMARK [2][]{subsection.5.2}{5.2 Subject Programs, Faults, and Tests}{section.5}% 18
+\BOOKMARK [2][]{subsection.5.3}{5.3 Baseline SFL Metrics and Cost Measure}{section.5}% 19
+\BOOKMARK [2][]{subsection.5.4}{5.4 Comparative Performance of NUMFL vs. Baselines}{section.5}% 20
+\BOOKMARK [2][]{subsection.5.5}{5.5 NUMFL-GPS Applied only to Failing Runs}{section.5}% 21
+\BOOKMARK [2][]{subsection.5.6}{5.6 Application of NUMFL-GPS to Programs with Multiple Faults}{section.5}% 22
+\BOOKMARK [2][]{subsection.5.7}{5.7 Comparison of NUMFL-GPS and NUMFL-CBPS}{section.5}% 23
+\BOOKMARK [2][]{subsection.5.8}{5.8 Sensitivity of NUMFL-GPS-QRM to the Number of GPS Subclasses}{section.5}% 24
+\BOOKMARK [2][]{subsection.5.9}{5.9 Computation Time}{section.5}% 25
+\BOOKMARK [2][]{subsection.5.10}{5.10 Limitations}{section.5}% 26
+\BOOKMARK [1][]{section.6}{6 RELATED WORK}{}% 27
+\BOOKMARK [1][]{section.7}{7 CONCLUSION}{}% 28
+\BOOKMARK [1][]{section.8}{8 Acknowledgements}{}% 29
